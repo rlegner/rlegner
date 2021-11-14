@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rico
 - 👀 I’m interested in sports like Boxing or training in gym.
-- 🌱 I’m currently learning ro use git.hub
-- 💞️ I’m looking to collaborate on git.hub
+- 🌱 I’m currently learning to use github
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: Go in nature and whisper in the wind.
 
 <!---
